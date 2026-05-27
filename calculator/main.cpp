@@ -8,6 +8,9 @@ public:
 	void getsum(int a, int b) {
 		result = a - b;
 	}
+	int getMul(int a, int b) {
+		return a * b;
+	}
 	int getresult() {
 		return result;
 	}

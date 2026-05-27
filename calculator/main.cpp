@@ -5,6 +5,9 @@ public:
 	void getsum(int a, int b) {
 		result = a + b;
 	}
+	void getsum(int a, int b) {
+		result = a - b;
+	}
 };
 
 int main() {

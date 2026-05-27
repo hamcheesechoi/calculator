@@ -1,0 +1,26 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="calculator/calculator.vcxproj" Id="4424771d-ccb8-4985-b633-abc54a09321a" />
+  <Project Path="GilededRose/GilededRose.vcxproj" Id="51b67842-ee10-4d5c-bb6e-71bd8598d1f5" />
+  <Project Path="project/project.vcxproj" Id="26ed67f2-fb37-401a-a55e-908dbc4fbca0" />
+  <Project Path="Project1/Project1.vcxproj" Id="3dee5413-a3f2-446f-9a47-3e0be9643cb1" />
+  <Project Path="Project10/Project10.vcxproj" Id="10241ad2-a9d1-4315-bd91-15c6f73f9dfa" />
+  <Project Path="Project11/Project11.vcxproj" Id="20fad84c-af29-4839-a59c-5c58020bf326" />
+  <Project Path="Project12/Project12.vcxproj" Id="8213d5bc-bc9b-466e-8ad9-0cf7bd5940d7" />
+  <Project Path="Project13/Project13.vcxproj" Id="402251f7-3083-48ac-8f72-ba53e6019752" />
+  <Project Path="Project14/Project14.vcxproj" Id="8b7ff43e-6c2d-4af2-82d3-3f4f812e0e49" />
+  <Project Path="Project15/Project15.vcxproj" Id="6437e85b-8823-4b22-89dd-adcca916a2d7" />
+  <Project Path="Project2/Project2.vcxproj" Id="4d09b4b8-a0dc-4f5f-9f03-d8aaaf4f0b2c" />
+  <Project Path="Project3/Project3.vcxproj" Id="0cf1ebf8-b1ea-45c8-a628-6469ea8b067b" />
+  <Project Path="Project4/Project4.vcxproj" Id="99ca6779-c5f3-4b90-9c42-84dbc910e690" />
+  <Project Path="Project5/Project5.vcxproj" Id="fcc8ed99-ceb9-4352-b1c6-a7e1031a5597" />
+  <Project Path="Project6/Project6.vcxproj" Id="209a9e62-f787-40bc-b7bd-ee3ca4aeda9a" />
+  <Project Path="Project7/Project7.vcxproj" Id="2042266c-eda3-4a53-a9e7-3dbc65385f8c" />
+  <Project Path="Project8/Project8.vcxproj" Id="6aa33835-d062-43ef-8dbc-1cc653fe48d3" />
+  <Project Path="Project9/Project9.vcxproj" Id="0534fd46-bdd7-4afa-a90c-47eb44f262dc" />
+  <Project Path="trivia/trivia.vcxproj" Id="b166f996-24b9-498e-af0b-9c0244c0685c" />
+  <Project Path="WHEELOFFORTUNE/WHEELOFFORTUNE.vcxproj" Id="5eb58668-29a6-4e35-8e77-4de32cf315bc" />
+</Solution>

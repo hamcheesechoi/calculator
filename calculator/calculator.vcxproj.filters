@@ -20,6 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include=".editor.config" />
+    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>

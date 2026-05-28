@@ -18,7 +18,7 @@ GildedRose::GildedRose(vector<Item>& items) : items(items)
 
 void GildedRose::updateQuality()
 {
-    for (int i = 0; i < items.size(); i++)
+    for (int i = 0; i < items.size(); i+=1)
     {
         auto& item = items.at(i);
         updateQuality(item);

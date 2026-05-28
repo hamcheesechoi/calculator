@@ -4,7 +4,7 @@
 
 TEST(ALU, ADDTest) {
 	ALU alu;
-	alu.setOperand1(10);
+	alu.setOperand1(130);
 	alu.setOperand2(20);
 	alu.setOPCODE("ADD");
 
